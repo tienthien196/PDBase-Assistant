@@ -1,7 +1,7 @@
 # PDBase Assistant
 
 <div align="center">
-  <img src="./img/bg2.png" alt="PDF Viewer Background" 
+  <img src="./img/bg-fb-landscape-1200-630.png" alt="PDF Viewer Background" 
        style="border: 2px solid #e0e0e0; border-radius: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); width: 500;"
   />
 </div>
