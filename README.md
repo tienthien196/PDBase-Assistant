@@ -1,13 +1,13 @@
 # PDBase Assistant
 
 <div align="center">
-  <img src="./img/bg.png" alt="PDF Viewer Background" 
+  <img src="./img/bg2.png" alt="PDF Viewer Background" 
        style="border: 2px solid #e0e0e0; border-radius: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.05); width: 500;"
   />
 </div>
 
 ### *Offline. Annotate. OCR. Explain.*  
-📄 PDF Viewer with AI Analysis
+📄 PDF Viewer with AI Analysis- PDbase Assistant  << Hỗ trợ thao tác với file pdf >>
 > A lightweight, fully manual, no-nonsense PDF viewer built in Python — no web servers, no cloud dependencies. Just you, your PDF, and AI that explains it like a human.
 
 ---
